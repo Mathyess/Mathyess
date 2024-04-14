@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Mathyess
-- 👀 I’m interested in this new world of technology
-- 🌱 I’m currently learning how programming in C and HTML CSS JS
-- 😄 Pronouns: He Him
-
-
-<!---
-Mathyess/Mathyess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Matheus Alende
+I'm a Brazilian native, I really like programming and competitive games.
+I'm 19 years old and I'm studying software engineering.
+Currently studying HTML CSS and C.
+In the future I intend to study JS, Python and Ruby.
+And this is me.
+Welcome to my profile. ♟
