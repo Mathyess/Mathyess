@@ -4,7 +4,9 @@
 </div>
 
 <div align="center">
+  
 ![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=79c0ff&center=true&random=false&width=435&lines=Welcome)
+
 </div>
 
   Hi ✨, I’m Matheus Alende
@@ -14,7 +16,6 @@ Currently studying HTML CSS and C.
 In the future I intend to study JS, Python and Ruby.
 And this is me.
 Welcome to my profile. ♟
-
 
 ## 🐱‍👓 About me
 
@@ -33,7 +34,6 @@ Welcome to my profile. ♟
 </p>
 
 
-
 ## ☕ How find me
 
 <div>
@@ -44,8 +44,8 @@ Welcome to my profile. ♟
 </div>
 <div>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=cian&dark=true">
-   <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=cian&dark=false">
-    <img alt="" src="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=xml&weeks=40&theme=cian&dark=truenimation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=purple&dark=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=false">
+    <img alt="" src="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=xml&weeks=40&theme=purple&dark=truenimation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
   </picture>
 </div>
