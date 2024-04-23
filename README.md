@@ -11,7 +11,7 @@
 
 
 ## 🪐 About me
-h1><strong>Hello</strong>, I’m Matheus Alende</h1>
+<h1><strong>Hello</strong>,I’m Matheus Alende</h1>
 
 <h3>I really like programming and competitive games.
 I'm 19 years old and I'm studying software engineering.
