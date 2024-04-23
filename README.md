@@ -1,52 +1,35 @@
-# Hello devs 🪐
+<h1>Hello Devs 🌙</h1>
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Hi, I’m Matheus Alende
+I'm a Brazilian native, I really like programming and competitive games.
+I'm 19 years old and I'm studying software engineering.
+Currently studying HTML CSS and C.
+In the future I intend to study JS, Python and Ruby.
+And this is me.
+Welcome to my profile. ♟
 
-## Mais sobre mim
+![](https://komarev.com/ghpvc/?username=Mathyess&color=006bed)
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```kotlin
-object **Matheus** {
- val name = "Matheus Alende Pires"
- val acknowledgements = "Full stack"
-
- val primarySkillset = "HTML CSS e C"
- val languages = listOf("HTML", "CSS", "C")
-
-}
-```
-
-## Linguagens e ferramentas
+<h3>Sobre mim</h3>
 
 
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-    alt="Logo HTML"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    alt="Logo CSS"/></code>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando *Engenharia de Softwere* no <a href="https://unicv.edu.br/">UNICV</a>.
+- 🌱 Aprendendo mais sobre *HTML CSS e C*.
+.
 
-## Status
+<h3>Minhas Skills</h3>
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathyess&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+
+*Aplicações e dados*
+
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathyess&theme=dark&show_icons=true" />
 </a>
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mathyess&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+<h3>Onde me encontrar</h3>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/https://twitter.com/MathyesSs2
-[youtube]: https://www.youtube.com/user/https://www.youtube.com/channel/UC2iK07eXRd0eSh7jD54JT9w/
-[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-alende-26384a278//
 
-<br>
-
-## Rede sociais
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
-👔 [LinkedIn][linkedin]
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-alende-26384a278/)](https://www.linkedin.com/in/matheus-alende-26384a278/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Matheuzoapires@gmail.com)](mailto:matheuzoapires@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/mathyess?label=follow&style=social)](https://github.com/Mathyess)
