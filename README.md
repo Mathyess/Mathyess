@@ -2,10 +2,10 @@
 <div align="center">
   <img width="100%" src="https://i.pinimg.com/originals/02/56/5c/02565c33131c9e8a241dd5ae4d97e81e.gif">
 </div>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<div align="center">
 ![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=864CF7&center=true&random=false&width=435&lines=Hi+I'm+Mathyess;I'm+a+Software+engineer;I'm+from+Brasil;I'm+19+years+old;I+like+games)
-
+</div>
 
 
 
