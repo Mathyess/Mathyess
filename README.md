@@ -9,8 +9,11 @@
 
 </div>
 
- <h1><strong>Hi </strong></h1>
-<h3>I’m Matheus Alende, I really like programming and competitive games.
+<h1><strong>Hi,</strong>I’m Matheus Alende</h1>
+
+## 🪐 About me
+
+<h3>I really like programming and competitive games.
 I'm 19 years old and I'm studying software engineering.
 Currently studying HTML CSS and C.
 In the future I intend to study JS, Python and Ruby.
