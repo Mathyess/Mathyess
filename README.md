@@ -13,7 +13,7 @@ Welcome to my profile. ♟
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Engenharia de Softwere** no <a href="https://unicv.edu.br/">UNICV</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **HTML CSS e C**.
+- 🌱 Aprendendo mais sobre **HTML CSS e C**.
 .
 
 <h3>Minhas Skills</h3>
