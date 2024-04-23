@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=4C42FF&center=true&random=false&width=435&lines=Welcome)
+![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=1d035c&center=true&random=false&width=435&lines=Welcome)
 
 </div>
 
