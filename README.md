@@ -1,6 +1,6 @@
 <div align="center">
   
-![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=02dfeb&center=true&random=false&width=435&lines=Hi+I'm+Mathyess;I'm+a+Software+engineer;I'm+from+Brasil;I'm+19+years+old;I+like+Games)
+![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=4C42FF&center=true&random=false&width=435&lines=Hi+I'm+Mathyess;I'm+a+Software+engineer;I'm+from+Brasil;I'm+19+years+old;I+like+Games)
 
 </div>
 
