@@ -9,7 +9,7 @@
 
 </div>
 
- <h3>Hi ✨</h3>
+ <h3 align="center">Hi ✨</h3>
 I’m Matheus Alende
 I'm a Brazilian native, I really like programming and competitive games.
 I'm 19 years old and I'm studying software engineering.
