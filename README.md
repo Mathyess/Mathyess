@@ -3,11 +3,10 @@
   <img width="100%" src="https://i.pinimg.com/originals/02/56/5c/02565c33131c9e8a241dd5ae4d97e81e.gif">
 </div>
 
-------------------------------------------------------------------------------------------------------------
+
 
 <div align="center">
 ![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=4C42FF&center=true&random=false&width=435&lines=Hi+I'm+Mathyess;I'm+a+Software+engineer;I'm+from+Brasil;I'm+19+years+old;I+like+Games)
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=864CF7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Talona;I'm+a+Software+engineer;I'm+from+Brasil;I'm+20+years+old;I+like+flowers)
   
 </div>
 
@@ -20,13 +19,13 @@ And this is me.
 Welcome to my profile. ♟
 
 ![](https://komarev.com/ghpvc/?username=Mathyess&color=006bed)
-------------------------------------------------------------------------------------------------------------
+
 ## 🐱‍👓 About me
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying *Software Engineering* at <a href="https://unicv.edu.br/">UNICV</a>.
 - 🌱 Learning more about *HTML, CSS, and C*.
-------------------------------------------------------------------------------------------------------------
+
 ## 📖 Learning
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" title ="HTML" alt="HTML" width="55" height="55"/> <img src="https://github.com/Mathyess/Mathyess/assets/165348908/6403221f-3ea9-42a6-8d42-7c7067d3192c" title ="CSS" alt="CSS" width="55" height="55"/>
