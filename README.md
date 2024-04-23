@@ -4,11 +4,8 @@
 </div>
 
 <div align="center">
-  
 ![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=79c0ff&center=true&random=false&width=435&lines=Welcome)
-
 </div>
-
 
   Hi ✨, I’m Matheus Alende
 I'm a Brazilian native, I really like programming and competitive games.
