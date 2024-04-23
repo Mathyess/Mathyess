@@ -20,7 +20,7 @@ Welcome to my profile. ♟
 
 <h3>Minhas Skills</h3>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" title ="HTML" alt="HTML" width="55" height="55"/> <img src="https://github.com/Mathyess/Mathyess/assets/165348908/e657f7a9-df81-4c4c-a36a-2bc3eaa7e80a
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" title ="HTML" alt="HTML" width="55" height="55"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48
 " title ="CSS" alt="CSS" width="55" height="55"/>
 
 
