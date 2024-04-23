@@ -22,7 +22,7 @@ Welcome to my profile. ♟
 **Aplicações e dados**
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathyess&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathyess&theme=dark&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
