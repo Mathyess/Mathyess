@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img width="80%" src="https://i.pinimg.com/originals/02/56/5c/02565c33131c9e8a241dd5ae4d97e81e.gif">
+  <img width="100%" src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-4.gif">
 </div>
 
 <div align="center">
   
-![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=79c0ff&center=true&random=false&width=435&lines=Welcome)
+![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=4C42FF&center=true&random=false&width=435&lines=Welcome)
 
 </div>
 
