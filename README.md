@@ -9,7 +9,7 @@ Welcome to my profile. ♟
 ![](https://komarev.com/ghpvc/?username=Mathyess&color=006bed)
 
 <h3>Sobre mim</h3>
-## Sobre mim
+
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Engenharia de Softwere** no <a href="https://unicv.edu.br/">UNICV</a>.
@@ -17,7 +17,7 @@ Welcome to my profile. ♟
 .
 
 <h3>Minhas Skills</h3>
-## Minhas Skills
+
 
 **Aplicações e dados**
 
@@ -26,7 +26,7 @@ Welcome to my profile. ♟
 </a>
 
 <h3>Onde me encontrar</h3>
-## Onde me encontrar
+
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-alende-26384a278/)](https://www.linkedin.com/in/matheus-alende-26384a278/)
 [![Gmail Badge](https://img.shields.io/badge/-Matheuzoapires@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Matheuzoapires@gmail.com)](mailto:matheuzoapires@gmail.com)
