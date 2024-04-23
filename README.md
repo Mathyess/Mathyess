@@ -21,7 +21,7 @@ Welcome to my profile. ♟
 <h3>Minhas Skills</h3>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> 
-
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 *Aplicações e dados*
 
 
