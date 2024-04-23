@@ -28,6 +28,6 @@ Welcome to my profile. ♟
 <h3>Onde me encontrar</h3>
 
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-alende-26384a278/)](https://www.linkedin.com/in/matheus-alende-26384a278/)
+[![Linkedin](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-alende-26384a278/)](https://www.linkedin.com/in/matheus-alende-26384a278/)
 [![Gmail Badge](https://img.shields.io/badge/-Matheuzoapires@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Matheuzoapires@gmail.com)](mailto:matheuzoapires@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Mathyess)
