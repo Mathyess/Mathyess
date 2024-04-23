@@ -6,14 +6,28 @@ In the future I intend to study JS, Python and Ruby.
 And this is me.
 Welcome to my profile. ♟
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mathyess&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mathyess&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathyess&show_icons=true" />
-</picture>
+![](https://komarev.com/ghpvc/?username=Mathyess&color=006bed)
+
+<h3>Sobre mim</h3>
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **Engenharia de Softwere** no <a href="https://unicv.edu.br/">UNICV</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML CSS e C**.
+.
+
+<h3>Minhas Skills</h3>
+## Minhas Skills
+
+**Aplicações e dados**
+
+@@ -49,7 +49,7 @@
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+<h3>Onde me encontrar</h3>
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-alende-26384a278/)](https://www.linkedin.com/in/matheus-alende-26384a278/)
+[![Gmail Badge](https://img.shields.io/badge/-Matheuzoapires@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Matheuzoapires@gmail.com)](mailto:matheuzoapires@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Mathyess)
