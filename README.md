@@ -6,8 +6,6 @@ In the future I intend to study JS, Python and Ruby.
 And this is me.
 Welcome to my profile. ♟
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathyess&show_icons=true&theme=dark)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
