@@ -17,7 +17,7 @@ In the future I intend to study JS, Python and Ruby.
 And this is me.
 Welcome to my profile. ♟</h3>
 
-##🪐 About me
+## 🪐 About me
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying *Software Engineering* at <a href="https://unicv.edu.br/">UNICV</a>.
