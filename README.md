@@ -5,3 +5,5 @@ Currently studying HTML CSS and C.
 In the future I intend to study JS, Python and Ruby.
 And this is me.
 Welcome to my profile. ♟
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathyess)](https://github.com/anuraghazra/github-readme-stats)
