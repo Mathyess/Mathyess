@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="100%" src="https://br.pinterest.com/pin/696650636137063595/">
+  <img width="100%" src="https://www.abmail.com.br/images/sazonais/gif_sazonal.gif">
 </div>
 
 
