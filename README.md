@@ -1,33 +1,87 @@
-Hi, I’m Matheus Alende
-I'm a Brazilian native, I really like programming and competitive games.
-I'm 19 years old and I'm studying software engineering.
-Currently studying HTML CSS and C.
-In the future I intend to study JS, Python and Ruby.
-And this is me.
-Welcome to my profile. ♟
+# Oie devs 👋
 
-![](https://komarev.com/ghpvc/?username=Mathyess&color=006bed)
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-<h3>Sobre mim</h3>
+## Mais sobre mim
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Engenharia de Softwere** no <a href="https://unicv.edu.br/">UNICV</a>.
-- 🌱 Aprendendo mais sobre **HTML CSS e C**.
-.
+```kotlin
+object **SEU NOME** {
+ val name = "SEU NOME COMPLETO"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
 
-<h3>Minhas Skills</h3>
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
 
+}
+```
 
-**Aplicações e dados**
+## Linguagens e ferramentas
 
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"
+    alt="Logo android"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"
+    alt="Logo kotlin"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
+    alt="Logo firebase"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+    alt="Logo java"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+    alt="Logo javascript"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+    alt="Logo visual studio"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+    alt="Logo git"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+    alt="Logo terminal"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+    alt="Logo HTML"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+    alt="Logo CSS"/></code>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathyess&theme=dark&show_icons=true" />
+## Status
+
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
-<h3>Onde me encontrar</h3>
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-alende-26384a278/)](https://www.linkedin.com/in/matheus-alende-26384a278/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Matheuzoapires@gmail.com)](mailto:matheuzoapires@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/mathyess?label=follow&style=social)](https://github.com/Mathyess)
+<br>
+
+## Rede sociais
+
+🏡 [Website][website] **|**
+🐦 [Twitter][twitter] **|**
+📺 [Youtube][youtube] **|**
+📷 [Instagram][instagram] **|**
+👔 [LinkedIn][linkedin]
