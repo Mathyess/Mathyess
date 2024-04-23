@@ -10,13 +10,13 @@
 </div>
 
  <h1 align="center">Hi ✨</h1>
-<h2>I’m Matheus Alende
+<h3>I’m Matheus Alende
 I'm a Brazilian native, I really like programming and competitive games.
 I'm 19 years old and I'm studying software engineering.
 Currently studying HTML CSS and C.
 In the future I intend to study JS, Python and Ruby.
 And this is me.
-Welcome to my profile. ♟</h2>
+Welcome to my profile. ♟</h3>
 
 ## 🐱‍👓 About me
 
