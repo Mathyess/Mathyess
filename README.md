@@ -1,3 +1,15 @@
+
+<div align="center">
+  <img width="100%" src="https://lh4.googleusercontent.com/proxy/7fmbb1M5f0xE2kUae4OKNuI3PmSRcrS6L44Q2qlWD07Lj881brYAxvBdZbNHyLvf1AHtSyhozbf38n1ndvoZGGnjndgYP1eL-xOjs_pJ76huNm5yKC4uBrkC8Gj0KMbhJJtbW499drDo5AP6ON1s">
+</div>
+
+
+
+
+
+
+
+
 <div align="center">
   
 ![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=4C42FF&center=true&random=false&width=435&lines=Hi+I'm+Mathyess;I'm+a+Software+engineer;I'm+from+Brasil;I'm+19+years+old;I+like+Games)
