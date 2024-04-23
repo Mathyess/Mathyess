@@ -10,7 +10,7 @@
   
 
 
-<h6>Hi ✨, I’m Matheus Alende</h6>
+<h1>Hi ✨, I’m Matheus Alende</h1>
 I'm a Brazilian native, I really like programming and competitive games.
 I'm 19 years old and I'm studying software engineering.
 Currently studying HTML CSS and C.
