@@ -6,17 +6,18 @@
 
 
 <div align="center">
-![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=4C42FF&center=true&random=false&width=435&lines=Hi+I'm+Mathyess;I'm+a+Software+engineer;I'm+from+Brasil;I'm+19+years+old;I+like+Games)
-  
-</div>
 
-Hi ✨, I’m Matheus Alende
+  
+
+
+<h6>Hi ✨, I’m Matheus Alende</h6>
 I'm a Brazilian native, I really like programming and competitive games.
 I'm 19 years old and I'm studying software engineering.
 Currently studying HTML CSS and C.
 In the future I intend to study JS, Python and Ruby.
 And this is me.
 Welcome to my profile. ♟
+</div>
 
 ![](https://komarev.com/ghpvc/?username=Mathyess&color=006bed)
 
