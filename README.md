@@ -8,7 +8,7 @@
 ![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=3006a1&center=true&random=false&width=435&lines=Welcome+abort+the+ship!)
 
 </div>
-## Hello!
+<h1>Hello!</h1>
 
 ## 🪐 About me
 
