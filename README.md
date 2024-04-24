@@ -51,5 +51,5 @@ Welcome to my profile. ♟
   </picture>
 </div>
 <div align="left">
-  <img width="10%" src="https://i.gifer.com/origin/4e/4efdb1ab76077f1d23339169374480ff_w200.gif">
+  <img width="10%" src="https://i.gifer.com/DeZu.gif">
 </div>
