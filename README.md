@@ -51,5 +51,5 @@ Welcome to my profile. ♟
   </picture>
 </div>
 <div align="left">
-  <img width="10%" src="https://i.gifer.com/DeZu.gif">
+  <img width="10%" src="https://img.lovepik.com/bg/20240104/Mesmerizing-GIF-Chess-Board-Background-Image_2688517_wh860.jpg!/fw/860">
 </div>
