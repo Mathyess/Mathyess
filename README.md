@@ -50,6 +50,4 @@ Welcome to my profile. ♟
     <img alt="" src="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=xml&weeks=40&theme=purple&dark=truenimation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
   </picture>
 </div>
-<div align="left">
-  <img width="100%" src="https://img.lovepik.com/bg/20240104/Mesmerizing-GIF-Chess-Board-Background-Image_2688517_wh860.jpg!/fw/860">
-</div>
+
