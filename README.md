@@ -37,7 +37,7 @@ Welcome to my profile. ♟
 </p>
 
 
-## ☕ How find me
+## ☕ How to find me
 
 <div>
   <a href="https://www.linkedin.com/in/matheus-alende-26384a278" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
