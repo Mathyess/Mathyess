@@ -11,6 +11,10 @@
 <h1 align="center">👋 Hey, I'm Matheus Alende!</h1>
 
 <p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/Hello%20Nice%20to%20Meet%20You.gif?raw=true" alt="Welcome GIF" width="300" />
+</p>
+
+<p align="center">
   🎮 Gamer by instinct | 💻 Dev by passion  
 </p>
 
