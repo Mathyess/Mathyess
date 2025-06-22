@@ -11,7 +11,7 @@
 <h1 align="center">👋 Hey, I'm Matheus Alende!</h1>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/Hello%20Nice%20to%20Meet%20You.gif?raw=true" alt="Welcome GIF" width="300" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/images/Awesome%20Work%20Environment.gif" alt="Awesome Work Environment" width="350" />
 </p>
 
 <p align="center">
