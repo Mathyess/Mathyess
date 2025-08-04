@@ -20,8 +20,8 @@
 
 <p align="center">
   🚀 20 y/o • Software Engineering student at <a href="https://unicv.edu.br" target="_blank">UNICV</a>  
-  <br/>🌱 Currently diving deep into <strong>HTML</strong>, <strong>CSS</strong> & <strong>C</strong>  
-  <br/>💡 Future goals: Master <strong>JavaScript</strong>, <strong>Python</strong> & <strong>Ruby</strong>  
+  <br/>🌱 Currently diving deep into <strong>HTML</strong>, <strong>CSS</strong> & <strong>Python</strong>  
+  <br/>💡 Future goals: Master <strong>JavaScript</strong>, <strong>Python</strong> & <strong>React</strong>  
 </p>
 
 ---
