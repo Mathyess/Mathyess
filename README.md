@@ -1,85 +1,86 @@
-# 👨‍💻 Matheus Alende | Software Engineer
-
 <div align="center">
+  <h1 align="center">Olá, eu sou Matheus Alende 👋</h1>
+  <p align="center">
+    Estudante de Engenharia de Software na <a href="https://unicv.edu.br" target="_blank">UNICV</a>, apaixonado por transformar ideias em soluções através da tecnologia.
+  </p>
   
-![Banner](https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-6.gif)
-
-</div>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=3006a1&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+space!;Software+Engineer;Full-Stack+Developer;Creative+Problem+Solver)
-
+  <a href="https://portfolio-fawn-mu-87.vercel.app/" target="_blank"><strong>Meu Portfólio</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="http://moozv.com" target="_blank"><strong>Site Freelance (Moozv)</strong></a>
 </div>
 
 ---
 
-## 🧩 About Me
+### 🧠 Sobre Mim
 
-🎓 **Software Engineering Student** at UNICV  
-💼 **Freelance Developer** at [moozv.com](https://moozv.com)  
-🌱 **Continuously learning** and expanding my skill set  
-🎮 **Gamer** who enjoys strategic challenges  
-🚀 **Passionate** about creating impactful digital solutions
+Sou um desenvolvedor e designer focado em resolver problemas do mundo real. Tenho um forte interesse em desenvolvimento web e mobile e estou sempre em busca de aprender novas tecnologias para aprimorar minhas habilidades. Fora do código, gosto de jogos competitivos, que me ajudam a aguçar minha lógica e foco.
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+- 🌱 Atualmente aprofundando meus conhecimentos em **Python**, **Java** e **Desenvolvimento Mobile com Flutter**.
+- 💡 Buscando me tornar um especialista em **JavaScript (React & Node.js)**.
+- 🤝 Aberto a colaborações em projetos criativos e de código aberto.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tecnologias e Ferramentas
 
-### 🔷 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+Minhas habilidades estão divididas nas seguintes áreas:
 
-### 🔶 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+#### Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+</p>
 
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+#### Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</p>
 
-### 🎯 Mobile Development
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+#### Mobile
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+</p>
+
+#### Banco de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathyess&theme=dark&count_private=true&show_icons=true&title_color=4C42FF&icon_color=4C42FF" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathyess&theme=dark&layout=compact&title_color=4C42FF&icon_color=4C42FF" alt="Top Languages" width="49%"/>
+</p>
+
+---
+
+### 📈 Mapa de Contribuições
 
 <div align="center">
-  
-![Mathyess's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathyess&show_icons=true&theme=radical&count_private=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathyess&layout=compact&theme=radical&hide_title=true)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=purple&dark=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=false">
+    <img alt="Contribution Graph" src="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=true">
+  </picture>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Conecte-se Comigo
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-fawn-mu-87.vercel.app/)
-[![Freelance](https://img.shields.io/badge/Freelance-MOOZV.com-8A2BE2?style=for-the-badge)](https://moozv.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alende-26384a278)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Matheuzoapires@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mathyess)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ **From [Mathyess](https://github.com/Mathyess)** | **Check out my [portfolio](https://portfolio-fawn-mu-87.vercel.app/)**
-
+  <a href="https://www.linkedin.com/in/matheus-alende-26384a278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Mathyess" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:Matheuzoapires@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.gg/6jzScPsb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/mathyyess" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
