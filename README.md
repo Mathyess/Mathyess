@@ -1,8 +1,8 @@
-# 👨‍💻 Matheus Alende | Software Engineer
+
 
 <div align="center">
 
-# Matheus Alende
+# Matheus Alende | Software Engineer
 ### Software Engineering Student & Developer
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-fanch-mu-87.vercel.app/)
