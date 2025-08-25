@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Matheus Alende</h1>
-  <p><strong>Estudante de Engenharia de Software | Foco em Back-End & Desenvolvimento Web</strong></p>
-  
+  <p><strong>Estudante de Engenharia de Software | Explorando Áreas, com Expertise em Front-End & Desenvolvimento Web</strong></p>
+
   <a href="https://portfolio-fawn-mu-87.vercel.app/" target="_blank">PORTFOLIO</a> •
   <a href="https://github.com/Mathyess" target="_blank">GITHUB</a> •
   <a href="https://www.linkedin.com/in/matheus-alende-26384a278" target="_blank">LINKEDIN</a> •
@@ -9,51 +9,61 @@
 
 </div>
 
-> Focado em construir soluções de software robustas e escaláveis que resolvem problemas do mundo real. Especializando-se em desenvolvimento back-end com Java e Python.
+> Atualmente explorando diversas áreas da engenharia de software, com uma base sólida e maior experiência em desenvolvimento front-end e web.
 
 ---
 
 ### Sumário Profissional
 
-Cursando Engenharia de Software na [UNICV](https://unicv.edu.br), com foco em arquitetura de sistemas e desenvolvimento de aplicações web. Minha metodologia é centrada na escrita de código limpo e eficiente, projetando e desenvolvendo APIs RESTful e buscando continuamente otimizar a performance e a experiência do usuário.
+Cursando Engenharia de Software na [UNICV](https://unicv.edu.br), estou em um momento de descoberta para definir minha área de foco dentro do vasto mundo da tecnologia. No entanto, possuo um conhecimento mais aprofundado e experiência prática em desenvolvimento front-end e na criação de aplicações web interativas.
 
-- **Foco Atual:** Desenvolvendo expertise no ecossistema **Java com Spring Boot** e aplicando **Python** para automação e soluções de back-end.
-- **Objetivo de Carreira:** Almejo uma posição como Desenvolvedor Full-Stack, expandindo minhas habilidades para o front-end com **React** para entregar produtos digitais completos e impactantes.
-- **Colaboração:** Aberto a oportunidades para colaborar em projetos inovadores e de código aberto.
+- **Foco Atual:** Em busca da minha especialização, com um interesse particular em desenvolvimento front-end e suas tecnologias.
+- **Expertise:** Experiência prática na construção de interfaces de usuário responsivas e dinâmicas utilizando HTML, CSS e JavaScript (incluindo TypeScript).
+- **Objetivo de Carreira:** Almejo solidificar minhas habilidades front-end e expandir meu conhecimento em outras áreas para me tornar um desenvolvedor full-stack versátil.
+- **Colaboração:** Entusiasmado para colaborar em projetos desafiadores e aprender com profissionais experientes.
 
 ---
 
 ### Principais Competências Técnicas
 
-Meu conjunto de habilidades abrange todo o ciclo de desenvolvimento de software:
+Meu conjunto de habilidades abrange diversas tecnologias relevantes para o desenvolvimento web e além:
 
 <table>
   <tr>
     <td align="center" width="150"><strong>Linguagens</strong></td>
-    <td align="center" width="150"><strong>Back-End</strong></td>
     <td align="center" width="150"><strong>Front-End</strong></td>
+    <td align="center" width="150"><strong>Back-End</strong></td>
+    <td align="center" width="150"><strong>Mobile</strong></td>
     <td align="center" width="150"><strong>Bancos de Dados</strong></td>
     <td align="center" width="150"><strong>DevOps & Ferramentas</strong></td>
     <td align="center" width="150"><strong>IDEs & Editores</strong></td>
   </tr>
   <tr>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /><br><small><em>(Learning)</em></small><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" width="40" height="40" alt="Styled Components" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="40" height="40" alt="React Native" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /><br><small><em>(Learning)</em></small><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br>
