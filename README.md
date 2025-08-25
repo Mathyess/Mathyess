@@ -1,4 +1,3 @@
-# 👨‍💻 Matheus Alende | Software Engineer
 
 <div align="center">
 
