@@ -1,97 +1,125 @@
+# 👨‍💻 Matheus Alende | Software Engineer
+
 <div align="center">
-  <h1>Matheus Alende</h1>
-  <p><strong>Estudante de Engenharia de Software | Foco em Back-End & Desenvolvimento Web</strong></p>
+
+# Matheus Alende
+### Software Engineering Student & Developer
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-fanch-mu-87.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alende-26384a278)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Matheuzoapires@gmail.com)
+
+</div>
+
+---
+
+## Professional Profile
+
+Computer Science student with a strong foundation in software engineering principles and a passion for developing efficient, scalable solutions. Experienced in full-stack development with a focus on clean code architecture and user-centered design.
+
+---
+
+## Technical Stack
+
+### 🚀 Core Technologies
+<div align="center">
   
-  <a href="https://portfolio-fawn-mu-87.vercel.app/" target="_blank">PORTFOLIO</a> •
-  <a href="https://github.com/Mathyess" target="_blank">GITHUB</a> •
-  <a href="https://www.linkedin.com/in/matheus-alende-26384a278" target="_blank">LINKEDIN</a> •
-  <a href="http://moozv.com" target="_blank">FREELANCE (MOOZV)</a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
-> Focado em construir soluções de software robustas e escaláveis que resolvem problemas do mundo real. Especializando-se em desenvolvimento back-end com Java e Python.
-
----
-
-### Sumário Profissional
-
-Cursando Engenharia de Software na [UNICV](https://unicv.edu.br), com foco em arquitetura de sistemas e desenvolvimento de aplicações web. Minha metodologia é centrada na escrita de código limpo e eficiente, projetando e desenvolvendo APIs RESTful e buscando continuamente otimizar a performance e a experiência do usuário.
-
-- **Foco Atual:** Desenvolvendo expertise no ecossistema **Java com Spring Boot** e aplicando **Python** para automação e soluções de back-end.
-- **Objetivo de Carreira:** Almejo uma posição como Desenvolvedor Full-Stack, expandindo minhas habilidades para o front-end com **React** para entregar produtos digitais completos e impactantes.
-- **Colaboração:** Aberto a oportunidades para colaborar em projetos inovadores e de código aberto.
-
----
-
-### Principais Competências Técnicas
-
-Meu conjunto de habilidades abrange todo o ciclo de desenvolvimento de software:
-
-<table>
-  <tr>
-    <td align="center" width="150"><strong>Linguagens</strong></td>
-    <td align="center" width="150"><strong>Back-End</strong></td>
-    <td align="center" width="150"><strong>Front-End</strong></td>
-    <td align="center" width="150"><strong>Bancos de Dados</strong></td>
-    <td align="center" width="150"><strong>DevOps & Ferramentas</strong></td>
-    <td align="center" width="150"><strong>IDEs & Editores</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /><br><small><em>(Learning)</em></small><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" height="40" alt="NetBeans" /><br>
-      <small><em>Cursor</em></small>
-    </td>
-  </tr>
-</table>
-
----
-
-### Atividade e Estatísticas do GitHub
-
+### 📱 Mobile Development
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathyess&theme=dark&count_private=true&show_icons=true&title_color=4C42FF&icon_color=4C42FF&hide_border=true" alt="Estatísticas do GitHub" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathyess&theme=dark&layout=compact&title_color=4C42FF&icon_color=4C42FF&hide_border=true" alt="Linguagens mais usadas" width="49%"/>
+  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 </div>
 
+### 🗄️ Databases
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=purple&dark=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=false">
-    <img alt="Contribution Graph" src="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=true">
-  </picture>
+  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="center">
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
 ---
 
-### Contato e Links Profissionais
+## GitHub Analytics
 
 <div align="center">
-  <a href="https://portfolio-fawn-mu-87.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="http://moozv.com" target="_blank"><img src="https://img.shields.io/badge/Freelance-Moozv-blue?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/matheus-alende-26384a278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:Matheuzoapires@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mathyess&show_icons=true&theme=algolia&hide_border=true&count_private=true&hide=issues" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathyess&layout=compact&theme=algolia&hide_border=true&langs_count=8" /> |
+|:---:|:---:|
+
+</div>
+
+---
+
+## Project Experience
+
+### 🏆 Featured Projects
+- **E-commerce Platform** - Full-stack application with React frontend and Spring Boot backend
+- **Mobile Task Manager** - Flutter-based productivity app with cloud synchronization
+- **API Integration Suite** - RESTful microservices architecture with Python and FastAPI
+
+### 🔄 Current Focus
+- Developing scalable backend architectures with containerization
+- Implementing automated testing strategies
+- Researching performance optimization techniques
+
+---
+
+## Education & Development
+
+### 📚 Continuous Learning
+Currently advancing knowledge in:
+- **Cloud Computing** (AWS Fundamentals)
+- **System Design Patterns**
+- **Advanced Algorithms**
+- **Security Best Practices**
+
+### 🎓 Academic Background
+**Bachelor of Software Engineering**  
+*UNICV - Centro Universitário Cidade Verde*  
+*Expected Graduation: 2025*
+
+---
+
+## Let's Connect
+
+I welcome discussions about new opportunities, collaborative projects, or technology innovation.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-fanch-mu-87.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alende-26384a278)
+[![Email](https://img.shields.io/badge/Contact_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Matheuzoapires@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The function of good software is to make the complex appear simple."* - Grady Booch
+
 </div>
