@@ -100,7 +100,7 @@ Currently advancing knowledge in:
 ### 🎓 Academic Background
 **Bachelor of Software Engineering**  
 *UNICV - Centro Universitário Cidade Verde*  
-*Expected Graduation: 2025*
+*Expected Graduation: 2028*
 
 ---
 
