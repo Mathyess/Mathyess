@@ -9,16 +9,16 @@
 
 </div>
 
-> Atualmente explorando diversas áreas da engenharia de software, com uma base sólida e maior experiência em desenvolvimento front-end e web.
+> Atualmente explorando diversas áreas da engenharia de software, com maior foco em desenvolvimento front-end.
 
 ---
 
 ### Sumário Profissional
 
-Cursando Engenharia de Software na [UNICV](https://unicv.edu.br), estou em um momento de descoberta para definir minha área de foco dentro do vasto mundo da tecnologia. No entanto, possuo um conhecimento mais aprofundado e experiência prática em desenvolvimento front-end e na criação de aplicações web interativas.
+Cursando Engenharia de Software na [UNICV](https://unicv.edu.br), estou em um momento de descoberta para definir minha área de foco dentro do vasto mundo da tecnologia. No entanto, possuo um conhecimento mais aprofundado e experiência prática em desenvolvimento front-end.
 
 - **Foco Atual:** Em busca da minha especialização, com um interesse particular em desenvolvimento front-end e suas tecnologias.
-- **Expertise:** Experiência prática na construção de interfaces de usuário responsivas e dinâmicas utilizando HTML, CSS e JavaScript (incluindo TypeScript).
+- **Expertise:** Experiência prática na construção de interfaces de usuário responsivas e dinâmicas utilizando HTML, CSS e JavaScript.
 - **Objetivo de Carreira:** Almejo solidificar minhas habilidades front-end e expandir meu conhecimento em outras áreas para me tornar um desenvolvedor full-stack versátil.
 - **Colaboração:** Entusiasmado para colaborar em projetos desafiadores e aprender com profissionais experientes.
 
