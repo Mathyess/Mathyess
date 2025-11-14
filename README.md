@@ -17,18 +17,18 @@ Habilidades Técnicas Principais
 Minhas competências abrangem as seguintes áreas:
 
 Linguagens e Frameworks
-Front-End: JavaScript, TypeScript, HTML, CSS, React (React.js e React Native).
+Front-End: JavaScript, HTML, CS.
 
 Back-End: Python, Java, Node.js.
 
 Mobile: Flutter, Dart.
 
 Bancos de Dados e Ferramentas
-Bancos de Dados: SQL (MySQL, PostgreSQL), NoSQL (MongoDB).
+Bancos de Dados: SQL (MySQL, PostgreSQL).
 
 Versionamento e Containerização: Git, Docker.
 
-IDEs: VS Code, IntelliJ IDEA.
+IDEs: VS Code, IntelliJ IDEA, Cursor.
 
 Contato
 Sinta-se à vontade para entrar em contato ou explorar meus projetos:
