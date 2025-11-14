@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Matheus Alende</h1>
-  <p><strong>Estudante de Engenharia de Software | Explorando Áreas, com Expertise em Front-End & Desenvolvimento Web</strong></p>
+  <p><strong>Estudante de Engenharia de Software | Explorando Áreas, atualmente focado em Front-End & Desenvolvimento Web</strong></p>
 
   <a href="https://portfolio-fawn-mu-87.vercel.app/" target="_blank">PORTFOLIO</a> •
   <a href="https://github.com/Mathyess" target="_blank">GITHUB</a> •
