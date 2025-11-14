@@ -1,110 +1,40 @@
-<div align="center">
-  <h1>Matheus Alende</h1>
-  <p><strong>Estudante de Engenharia de Software | Explorando Áreas, atualmente focado em Front-End & Desenvolvimento Web</strong></p>
+<div align="center">   <h1>Matheus Alende</h1>   <p><strong>Estudante de Engenharia de Software | Desenvolvedor Front-End Web & Mobile</strong></p>
 
-  <a href="https://portfolio-fawn-mu-87.vercel.app/" target="_blank">PORTFOLIO</a> •
-  <a href="https://github.com/Mathyess" target="_blank">GITHUB</a> •
-  <a href="https://www.linkedin.com/in/matheus-alende-26384a278" target="_blank">LINKEDIN</a> •
-  <a href="http://moozv.com" target="_blank">FREELANCE (MOOZV)</a>
+  <a href="https://portfolio-fawn-mu-87.vercel.app/" target="_blank">PORTFOLIO</a> •   <a href="https://github.com/Mathyess" target="_blank">GITHUB</a> •   <a href="https://www.linkedin.com/in/matheus-alende-26384a278" target="_blank">LINKEDIN</a> •   <a href="http://moozv.com" target="_blank">FREELANCE (MOOZV)</a>
 
 </div>
 
-> Explorando diversas áreas da engenharia de software, com maior foco em desenvolvimento front-end.
+Sumário
+Cursando Engenharia de Software na UNICV. Meu foco principal é o desenvolvimento Front-End, onde busco criar interfaces de usuário funcionais e responsivas. Estou em constante aprendizado, com o objetivo de expandir minhas habilidades para o Full-Stack.
 
----
+Foco Principal: Desenvolvimento Web Front-End.
 
-### Sumário Profissional
+Experiência Prática: HTML, CSS, JavaScript e frameworks modernos.
 
-Cursando Engenharia de Software na [UNICV](https://unicv.edu.br), estou em um momento de descoberta para definir minha área de foco dentro do vasto mundo da tecnologia. No entanto, possuo um conhecimento mais aprofundado e experiência prática em desenvolvimento front-end.
+Meta: Transição para um desenvolvedor Full-Stack versátil.
 
-- **Foco Atual:** Em busca da minha especialização, com um interesse particular em desenvolvimento front-end e suas tecnologias.
-- **Expertise:** Experiência prática na construção de interfaces de usuário responsivas e dinâmicas utilizando HTML, CSS e JavaScript.
-- **Objetivo de Carreira:** Almejo solidificar minhas habilidades front-end e expandir meu conhecimento em outras áreas para me tornar um desenvolvedor full-stack versátil.
-- **Colaboração:** Entusiasmado para colaborar em projetos desafiadores e aprender com profissionais experientes.
+Habilidades Técnicas Principais
+Minhas competências abrangem as seguintes áreas:
 
----
+Linguagens e Frameworks
+Front-End: JavaScript, TypeScript, HTML, CSS, React (React.js e React Native).
 
-### Principais Competências Técnicas
+Back-End: Python, Java, Node.js.
 
-Meu conjunto de habilidades abrange diversas tecnologias relevantes para o desenvolvimento web e além:
+Mobile: Flutter, Dart.
 
-<table>
-  <tr>
-    <td align="center" width="150"><strong>Linguagens</strong></td>
-    <td align="center" width="150"><strong>Front-End</strong></td>
-    <td align="center" width="150"><strong>Back-End</strong></td>
-    <td align="center" width="150"><strong>Mobile</strong></td>
-    <td align="center" width="150"><strong>Bancos de Dados</strong></td>
-    <td align="center" width="150"><strong>DevOps & Ferramentas</strong></td>
-    <td align="center" width="150"><strong>IDEs & Editores</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Ecosystem" /><br>
-      <small>
-        <em>React.js (Learning)</em><br>
-        <em>React Native</em><br>
-        <em>Styled Components</em>
-      </small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" height="40" alt="NetBeans" /><br>
-      <small><em>Cursor</em></small>
-    </td>
-  </tr>
-</table>
+Bancos de Dados e Ferramentas
+Bancos de Dados: SQL (MySQL, PostgreSQL), NoSQL (MongoDB).
 
----
+Versionamento e Containerização: Git, Docker.
 
-### Atividade e Estatísticas do GitHub
+IDEs: VS Code, IntelliJ IDEA.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathyess&theme=dark&count_private=true&show_icons=true&title_color=4C42FF&icon_color=4C42FF&hide_border=true" alt="Estatísticas do GitHub" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathyess&theme=dark&layout=compact&title_color=4C42FF&icon_color=4C42FF&hide_border=true" alt="Linguagens mais usadas" width="49%"/>
-</div>
+Contato
+Sinta-se à vontade para entrar em contato ou explorar meus projetos:
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=purple&dark=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=false">
-    <img alt="Contribution Graph" src="https://ssr-contributions-svg.vercel.app/_/Mathyess?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=true">
-  </picture>
-</div>
+Email: Matheuzoapires@gmail.com
 
----
+LinkedIn: linkedin.com/in/matheus-alende-26384a278
 
-### Contato e Links Profissionais
-
-<div align="center">
-  <a href="https://portfolio-fawn-mu-87.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="http://moozv.com" target="_blank"><img src="https://img.shields.io/badge/Freelance-Moozv-blue?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/matheus-alende-26384a278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:Matheuzoapires@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+Portfólio: portfolio-fawn-mu-87.vercel.app
