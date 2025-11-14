@@ -9,7 +9,7 @@
 
 </div>
 
-> Atualmente explorando diversas áreas da engenharia de software, com maior foco em desenvolvimento front-end.
+> Explorando diversas áreas da engenharia de software, com maior foco em desenvolvimento front-end.
 
 ---
 
