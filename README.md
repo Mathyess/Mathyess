@@ -1,43 +1,113 @@
 <div align="center">
-  <h1>Matheus Alende</h1>
-  <p><strong>Estudante de Engenharia de Software | Desenvolvedor Front-End Web & Mobile</strong></p>
 
-  <p>
-    <a href="https://portfolio-fawn-mu-87.vercel.app/" target="_blank">🌐 PORTFOLIO</a> •
-    <a href="https://github.com/Mathyess" target="_blank">🐙 GITHUB</a> •
-    <a href="https://www.linkedin.com/in/matheus-alende-26384a278" target="_blank">💼 LINKEDIN</a> •
-    <a href="http://moozv.com" target="_blank">🚀 FREELANCE (MOOZV)</a>
-  </p>
+# Matheus Alende
+
+### Suporte & Infraestrutura de TI • Desenvolvimento Web
+
+Atuo profissionalmente na área de **Tecnologia da Informação**, com foco em suporte e infraestrutura,  
+enquanto desenvolvo projetos web utilizando **React, TypeScript e Node.js**.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alende-26384a278/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-fawn-mu-87.vercel.app/)
+[![Moozv](https://img.shields.io/badge/Moozv-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](http://moozv.com)
+
 </div>
 
 ---
 
-### 📝 Sumário
-Cursando **Engenharia de Software na UNICV**. Meu foco principal é o desenvolvimento **Front-End**, onde busco criar interfaces de usuário funcionais, responsivas e elegantes. Estou em constante aprendizado, com o objetivo de expandir minhas habilidades para me tornar um desenvolvedor **Full-Stack**.
+## 👨‍💻 Sobre mim
 
-* **Foco Principal:** Desenvolvimento Web Front-End.
-* **Experiência Prática:** HTML, CSS, JavaScript e frameworks modernos.
-* **Meta:** Transição para Full-Stack.
+Sou estudante de **Engenharia de Software na UniCV** e atualmente trabalho na área de **TI**, prestando suporte aos usuários e auxiliando na manutenção da infraestrutura tecnológica da empresa.
 
----
+No dia a dia, tenho contato com atividades como manutenção e configuração de computadores, Windows, hardware, redes, impressoras, troubleshooting, domínio corporativo e suporte técnico.
 
-### 🛠 Habilidades Técnicas
+Paralelamente, desenvolvo projetos web e soluções próprias utilizando principalmente **React, TypeScript e Node.js**, explorando também automações e ferramentas que possam facilitar tarefas do cotidiano.
 
-#### 💻 Linguagens e Frameworks
-* **Front-End:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-* **Back-End:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-* **Mobile:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-#### 🗄️ Bancos de Dados e Ferramentas
-* **Database:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-* **DevOps & Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-* **IDEs:** VS Code, IntelliJ IDEA, Cursor.
+Meu objetivo é continuar evoluindo tanto em **Infraestrutura de TI** quanto em **Desenvolvimento de Software**, utilizando programação e automação como ferramentas para resolver problemas reais.
 
 ---
 
-### 📫 Contato
-Sinta-se à vontade para entrar em contato ou explorar meus projetos:
+## 🛠️ Tecnologias
 
-* **Email:** [Matheuzoapires@gmail.com](mailto:Matheuzoapires@gmail.com)
-* **LinkedIn:** [linkedin.com/in/matheus-alende](https://www.linkedin.com/in/matheus-alende-26384a278)
-* **Portfólio:** [portfolio-fawn-mu-87.vercel.app](https://portfolio-fawn-mu-87.vercel.app/)
+### Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Infraestrutura & Suporte
+
+`Windows` • `Hardware` • `Redes` • `Troubleshooting` • `Suporte Técnico` • `Manutenção` • `Automação`
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🌐 Moozv
+
+Projeto voltado ao desenvolvimento de **sites e pequenas soluções web**, aplicando tecnologias modernas para criação de interfaces responsivas e funcionais.
+
+**Tecnologias:** React • TypeScript • JavaScript • Git
+
+🔗 [Acessar Moozv](http://moozv.com)
+
+---
+
+### 🖥️ SupportTool
+
+Ferramenta desenvolvida com foco em **suporte técnico e manutenção de ambientes Windows**, reunindo e automatizando procedimentos utilizados no diagnóstico e resolução de problemas.
+
+**Competências:** Windows • Troubleshooting • Automação • Suporte Técnico
+
+> Projeto que une minhas duas principais áreas de interesse: infraestrutura e desenvolvimento.
+
+---
+
+## 🎓 Atualmente
+
+- 🎓 Engenharia de Software — **UniCV**
+- 💼 Atuando profissionalmente na área de **TI**
+- 🖥️ Aprofundando conhecimentos em **Infraestrutura e Redes**
+- ⚛️ Desenvolvendo projetos com **React + TypeScript**
+- 🟢 Estudando e utilizando **Node.js**
+- ⚙️ Explorando **automação aplicada ao suporte de TI**
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathyess&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathyess&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+**Aberto a oportunidades e conexões nas áreas de Infraestrutura, Suporte e Desenvolvimento Web.**
+
+📧 **Email:** Matheuzoapires@gmail.com  
+💼 **LinkedIn:** [Matheus Alende](https://www.linkedin.com/in/matheus-alende-26384a278/)  
+🌐 **Portfólio:** [portfolio-fawn-mu-87.vercel.app](https://portfolio-fawn-mu-87.vercel.app/)
+
+</div>
