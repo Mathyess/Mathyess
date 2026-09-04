@@ -88,13 +88,16 @@ Ferramenta desenvolvida com foco em **suporte técnico e manutenção de ambient
 
 ---
 
-## 📊 GitHub
+<h2>📊 GitHub</h2>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathyess&show_icons=true&hide_border=true&theme=transparent)
+### 🐍 Minhas contribuições
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathyess&layout=compact&hide_border=true&theme=transparent)
+<img
+  src="https://raw.githubusercontent.com/Mathyess/Mathyess/output/github-contribution-grid-snake-dark.svg"
+  alt="Snake animation"
+/>
 
 </div>
 
