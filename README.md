@@ -98,15 +98,3 @@ Ferramenta desenvolvida com foco em **suporte técnico e manutenção de ambient
 💼 **LinkedIn:** [Matheus Alende](https://www.linkedin.com/in/matheus-alende-26384a278/)  
 🌐 **Portfólio:** [portfolio-fawn-mu-87.vercel.app](https://portfolio-fawn-mu-87.vercel.app/)
 
-</div>
-
-## 🐍 Atividade no GitHub
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Mathyess/Mathyess/output/github-contribution-grid-snake-dark.svg"
-  alt="Animação das contribuições do GitHub"
-/>
-
-</div>
