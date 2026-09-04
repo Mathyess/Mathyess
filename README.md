@@ -88,21 +88,6 @@ Ferramenta desenvolvida com foco em **suporte técnico e manutenção de ambient
 
 ---
 
-<h2>📊 GitHub</h2>
-
-<div align="center">
-
-### 🐍 Minhas contribuições
-
-<img
-  src="https://raw.githubusercontent.com/Mathyess/Mathyess/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake animation"
-/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
