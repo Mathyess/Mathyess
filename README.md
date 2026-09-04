@@ -99,3 +99,14 @@ Ferramenta desenvolvida com foco em **suporte técnico e manutenção de ambient
 🌐 **Portfólio:** [portfolio-fawn-mu-87.vercel.app](https://portfolio-fawn-mu-87.vercel.app/)
 
 </div>
+
+## 🐍 Atividade no GitHub
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Mathyess/Mathyess/output/github-contribution-grid-snake-dark.svg"
+  alt="Animação das contribuições do GitHub"
+/>
+
+</div>
